@@ -1,0 +1,2 @@
+# Live Chatting Web App
+  A live chatting web app uses HTML, CSS, and JavaScript for real-time communication between users. It employs input fields for typing messages, a chat window for displaying conversations, and buttons for sending messages. JavaScript handles user interactions, while server-side technologies like Node.js or Django manage data storage, user authentication, and communication between users. This web app facilitates instant communication and enhances collaboration among individuals or communities.
